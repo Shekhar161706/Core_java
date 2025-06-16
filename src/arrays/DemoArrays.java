@@ -10,7 +10,7 @@ public class DemoArrays {
 
        //SYNTAX:  Datatype varName [] = {value1,value2, value 3........};
 
-        String cities [] = { "Agra" , "Delhi" , "Jaipur", "Pune", "Kanpur","Mumbai","Jhanshi"};
+        String cities [] = { "Agra" , "Delhi" , "Jaipur", "Pune", "Kanpur","Mumbai","Jhansi"};
 
         System.out.println(cities[1]);
 

@@ -1,6 +1,5 @@
 package collection.hashset;
 
-import com.sun.javafx.image.IntPixelGetter;
 
 import java.util.HashSet;
 import java.util.LinkedHashSet;
