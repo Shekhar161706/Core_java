@@ -35,6 +35,13 @@ public class Book {
         System.out.println("Printing object3 writer "+obj3.writeName);
         System.out.println("Printing object3 price "+obj3.price);
 
+        Book obj4= new Book();// object created with name obj3
+
+        System.out.println("Printing object4 name "+obj4.name);
+        System.out.println("Printing object4 page "+obj4.pages);
+        System.out.println("Printing object4 writer "+obj4.writeName);
+        System.out.println("Printing object4 price "+obj4.price);
+
     }
 
 }

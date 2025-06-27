@@ -23,6 +23,11 @@ public class Student {
 
         System.out.println("Name: "+student2.name + " Roll No: "+student2.roll_no +" Section : "+student2.section);
 
+        Student student3= new Student("Deepak",22,"Science");
+
+        System.out.println("Name: "+student3.name + " Roll No: "+student3.roll_no +" Section : "+student3.section);
+
+
     }
 
 }
